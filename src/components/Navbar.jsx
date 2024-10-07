@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="navbar shadow-lg  w-full">
       <div className="flex-1">
-        <a className="btn btn-ghost text-xl">Hello Gunjan!</a>
+        <a className="btn btn-ghost text-xl">Hello Lokesh!</a>
       </div>
       <div className="flex-none gap-2">
         <div className="form-control">
